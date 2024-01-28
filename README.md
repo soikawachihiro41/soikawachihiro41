@@ -1,4 +1,4 @@
-## 🎫 About Kitade
+## 🎫 About soikawa
 Hi, I'm an engineer newbie. 👶
 
 ### statics
