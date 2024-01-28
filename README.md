@@ -1,16 +1,15 @@
-### Hi there 👋
+## 🎫 About Kitade
+Hi, I'm an engineer newbie. 👶
 
-<!--
-**soikawachihiro41/soikawachihiro41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### statics
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soikawachihiro41&theme=react)
 
-Here are some ideas to get you started:
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soikawachihiro41&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soikawachihiro41&theme=react)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=soikawachihiro41&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soikawachihiro41&theme=react&utcOffset=8)
+
+
+### 🌱 my skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,js,ts,react,ruby,rails,tailwind,git,github,figma,docker,RSpec" />
